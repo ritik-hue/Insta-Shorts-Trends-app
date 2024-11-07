@@ -1,0 +1,4 @@
+gunicorn
+streamlit
+plotly
+streamlit_lottie
